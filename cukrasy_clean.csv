@@ -1,0 +1,65 @@
+id,kolor,szerokosc,dlugosc,twardosc,kwas,smaczek,kategoria
+3,Czerwony,1.00,5.00,-1.00,1.00,8.00,Rainbow 
+4,Pomarańczowy,20.00,25.00,1.00,-1.00,7.00,Mango
+5,Tęczowy,1.00,140.00,1.00,0.00,7.00,Rainbow 
+6,Zielono-biały,10.00,30.00,-1.00,1.00,10.00,Języczki
+7,Biało-czerwony,10.00,30.00,1.00,1.00,10.00,Języczki
+8,Żółty,20.00,30.00,0.00,1.00,8.00,Mango
+9,Żółty,25.00,35.00,0.00,0.00,6.00,Miękkusie
+10,Różowy,25.00,35.00,-1.00,-1.00,9.00,Miękkusie
+11,Pomarańczowy,25.00,35.00,-1.00,-1.00,7.00,Miękkusie
+12,Pomarańczowy,25.00,35.00,1.00,-1.00,7.00,Miękkusie
+13,Tęczowy,10.00,125.00,-1.00,1.00,9.00,Rainbow 
+14,Żółty,25.00,20.00,1.00,-1.00,6.00,Mango
+15,Tęczowy,15.00,130.00,-1.00,-1.00,10.00,Rainbow 
+16,Różowy,30.00,35.00,0.00,0.00,8.00,Peaches
+17,Pomarańczowy,19.00,26.00,1.00,0.00,9.00,Mango
+18,Zielony,15.00,115.00,-1.00,1.00,7.00,Sour Blast
+19,Zielony,25.00,115.00,1.00,1.00,7.00,Sour Blast
+20,Pomarańczowy,18.00,26.00,1.00,0.00,9.00,Mango
+21,Tęczowy,15.00,135.00,-1.00,0.00,8.00,Rainbow
+22,Żółty,20.00,30.00,0.00,0.00,8.00,Mango
+23,Biało-czerwony,30.00,30.00,1.00,1.00,5.00,Peaches
+24,Tęczowy,25.00,135.00,0.00,0.00,10.00,Rainbow
+25,Zielony,15.00,130.00,-1.00,1.00,3.00,Sour Blast
+26,Zielony,15.00,115.00,0.00,1.00,3.00,Sour Blast
+27,Czerwony,40.00,55.00,1.00,1.00,10.00,Spaghetti 
+28,Biało-czerwony,30.00,30.00,0.00,0.00,7.00,Peaches
+29,Zielony,15.00,130.00,1.00,1.00,8.00,Sour Blast
+30,Różowo-szary,30.00,30.00,-1.00,0.00,6.00,Peaches
+31,Różowy,30.00,35.00,-1.00,0.00,7.00,Peaches
+32,Różowy,4.00,50.00,-1.00,-1.00,9.00,Spaghetti 
+33,Różowo-szary,30.00,30.00,-1.00,0.00,7.00,Peaches
+34,Różowy,4.00,50.00,0.00,0.00,6.00,Spaghetti 
+35,Pomarańczowy,26.00,26.00,-1.00,0.00,7.00,Mango
+36,Zielony,15.00,115.00,0.00,1.00,8.00,Sour Blast
+37,Zielony,15.00,115.00,-1.00,1.00,9.00,Sour Blast
+38,Pomarańczowy,40.00,50.00,1.00,0.00,1.00,Mango
+39,Żółty,20.00,30.00,-1.00,0.00,6.00,Mango
+40,Tęczowy,15.00,130.00,-1.00,1.00,8.00,Rainbow
+41,Zielony,14.00,125.00,0.00,1.00,4.00,Sour Blast
+42,Żółtty,20.00,30.00,1.00,-1.00,5.00,Mango
+43,Brązowo-żółty,30.00,10.00,1.00,0.00,8.00,Języczki
+44,Brązowo-żółty,10.00,30.00,1.00,0.00,8.00,Języczki
+45,Tęczowy,15.00,115.00,-1.00,-1.00,10.00,Rainbow
+46,Czerwony,5.00,50.00,1.00,-1.00,5.00,Spaghetti 
+47,Zielony,20.00,120.00,0.00,1.00,3.00,Yuzu
+48,Żółtty,25.00,15.00,0.00,-1.00,8.00,Mango
+49,Tęczowy,30.00,115.00,0.00,1.00,4.00,Rainbow 
+50,Zielony,20.00,120.00,0.00,1.00,3.00,Yuzu
+51,Biało-czerwony,30.00,30.00,-1.00,-1.00,6.00,Miękkusie
+52,Biało-czerwony,30.00,30.00,-1.00,-1.00,7.00,Miękkusie
+53,Biało-zielony,30.00,30.00,-1.00,0.00,7.00,Miękkusie
+54,Pomarańczowy,15.00,27.00,-1.00,-1.00,9.00,Mango
+55,Biało-zielony,30.00,30.00,-1.00,-1.00,5.00,Miękkusie
+56,Biało-czerwony,16.00,13.00,0.00,1.00,5.00,Peaches
+58,Różowy,40.00,30.00,0.00,0.00,6.00,Peaches
+59,Różowy,40.00,33.00,0.00,0.00,7.00,Peaches
+61,Biało-czerwony,15.00,35.00,0.00,-1.00,9.00,Języczki
+62,Biało-brązowy,30.00,10.00,0.00,0.00,9.00,Coca-Cola
+63,Biało-czerwony,40.00,33.00,0.00,0.00,8.00,Peaches
+64,Biało-czerwony,20.00,20.00,-1.00,-1.00,8.00,Miękkusie
+1,Pomarańczowy,16.00,27.00,-1.00,-1.00,8.00,Mango
+2,Tęczowy,15.00,150.00,-1.00,-1.00,4.00,Rainbow
+57,Biało-pomarańczowy,10.00,30.00,-1.00,-1.00,10.00,Języczki
+60,Żółto-zielony,13.00,35.00,-1.00,0.00,7.00,Języczki
